@@ -1,0 +1,5 @@
+nltk>=3.8,<4.0
+TurkishStemmer==1.1
+zemberek-python==0.2.3
+# zemberek-python, pkg_resources kullandığından setuptools 81'in altı gerekir.
+setuptools<81
