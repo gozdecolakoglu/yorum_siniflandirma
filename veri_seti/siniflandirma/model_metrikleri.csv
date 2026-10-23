@@ -1,0 +1,5 @@
+﻿model,training_accuracy,test_accuracy,precision_macro,recall_macro,f1_macro,roc_auc
+lojistik_regresyon,1.0,1.0,1.0,1.0,1.0,1.0
+svm,1.0,1.0,1.0,1.0,1.0,1.0
+random_forest,1.0,1.0,1.0,1.0,1.0,1.0
+naive_bayes,0.9991254372813593,0.998997995991984,0.9991356957649092,0.9988109393579072,0.9989722359532048,0.9999897051026658

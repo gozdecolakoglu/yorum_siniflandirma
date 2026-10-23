@@ -1,5 +1,8 @@
 nltk>=3.8,<4.0
 TurkishStemmer==1.1
 zemberek-python==0.2.3
+scikit-learn>=1.6,<2.0
+streamlit>=1.57,<2.0
+pandas>=2.2,<4.0
 # zemberek-python, pkg_resources kullandığından setuptools 81'in altı gerekir.
 setuptools<81
